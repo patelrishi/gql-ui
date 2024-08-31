@@ -1,0 +1,8 @@
+.button{
+    border-radius: 7px 7px 7px 7px;
+    background: paleturquoise;
+    color: darkblue;
+    font-size: medium;
+    font-family: revert;
+    text-shadow: -1px 0px 1px deepskyblue;
+}
